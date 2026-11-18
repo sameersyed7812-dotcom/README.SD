@@ -63,7 +63,7 @@ Hello! I'm Syed Sameer, an aspiring Data Analyst passionate about data analytics
 
 ## 🤝 Let's Connect
 
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: YOUR-LINKEDIN-URL
+- GitHub: https://github.com/sameersyed7812-dotcom/
+- LinkedIn: https://www.linkedin.com/in/syed-sameer-870117334
 
 **Thank you for visiting my profile!** ⭐                                                
